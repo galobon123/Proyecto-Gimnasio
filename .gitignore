@@ -1,0 +1,51 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+build/
+
+## Rider
+.idea/
+
+## .NET Core / .NET 5+
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+packages/
+# Include packages.config if you need it
+# packages.config
+
+## Rider / Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## VS Code
+.vscode/
+
+## Logs
+*.log
+
+## OS generated
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+## Publish
+*.Publish.xml
+publish/

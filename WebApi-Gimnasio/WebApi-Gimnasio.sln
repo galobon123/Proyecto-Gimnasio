@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi-Gimnasio", "WebApi-Gimnasio.csproj", "{1073E823-C28C-466C-9902-C00E494DC1A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca-Gimnasio", "..\Biblioteca-Gimnasio\Biblioteca-Gimnasio.csproj", "{8946A30F-85A5-4077-80FA-A655872F5E4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1073E823-C28C-466C-9902-C00E494DC1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1073E823-C28C-466C-9902-C00E494DC1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1073E823-C28C-466C-9902-C00E494DC1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1073E823-C28C-466C-9902-C00E494DC1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8946A30F-85A5-4077-80FA-A655872F5E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8946A30F-85A5-4077-80FA-A655872F5E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8946A30F-85A5-4077-80FA-A655872F5E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8946A30F-85A5-4077-80FA-A655872F5E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C487E3CD-824E-4DAB-91AA-84B2EBB205FF}
+	EndGlobalSection
+EndGlobal
